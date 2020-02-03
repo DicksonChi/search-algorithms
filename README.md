@@ -1,6 +1,6 @@
 # search-algorithms
 
-### Algorithms to be created:
+### Algorithms to be implemented:
 
 * Linear search
 * Bubble sort
